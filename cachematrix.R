@@ -1,3 +1,5 @@
+## Note: Matrix should be a square invertible matrix for these functions to work
+
 ##The makeCacheMatrix will read a matix object and provides a list where in 
 ##you can set & get a matrix object and its inverse. Cachesolve reads a list object
 ## formed by makeCacheMatrix retrieve inverse of a matric object from cache,
